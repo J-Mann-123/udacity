@@ -22,9 +22,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-<<<<<<< HEAD
-    "build": "react-scripts build"
-=======
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
@@ -40,6 +37,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
->>>>>>> 64e2534a698eb94bd79770e965f15799f0243f10
   }
 }
